@@ -35,6 +35,10 @@ agent-prd/
 - `~/.claude/skills/`
 - 或项目级 `.agents/skills/`
 
+## 实战样例
+
+📄 **[Lighthouse · 深度研究 Agent 完整 PRD](examples/lighthouse-research-agent-prd.md)** —— 用本工作流产出的真实样例：假设在 Kimi 内部立项一款面向金融/咨询从业者的深度研究 Agent，包含市场洞察（TAM/SAM/SOM）、5 个核心场景、Prompt 分层结构图、RAG 十级流水线、商业模式画布、分层指标体系与竞品对比。每个架构决策都标注了溯源（`[借鉴: XX 拆解]`），展示"调研 → 决策"的完整闭环。
+
 ## 使用
 
 对 Agent 说出触发语即可，例如：
